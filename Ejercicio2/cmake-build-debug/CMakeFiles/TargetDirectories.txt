@@ -1,0 +1,3 @@
+C:/Users/magol/CLionProjects/ProgramacionEstructurada/Ejercicio2/cmake-build-debug/CMakeFiles/Ejercicio2.dir
+C:/Users/magol/CLionProjects/ProgramacionEstructurada/Ejercicio2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/magol/CLionProjects/ProgramacionEstructurada/Ejercicio2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
